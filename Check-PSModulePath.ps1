@@ -18,5 +18,5 @@ function Get-UserModulePath {
         $Path
 }
  
-Invoke-Item (Get-UserModulePath)
-# Get-UserModulePath
+# Invoke-Item (Get-UserModulePath)
+Get-UserModulePath
